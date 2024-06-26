@@ -170,6 +170,8 @@ def Inti_program():
             sudut = input("PILIH TITIK SUDUT SIKU STAIRNYA : ")
             print()
             segitiga_siku(tinggi, sudut)
+
+#USER MEMILIH SEGITIGA SAMA KAKI
         
     elif pilihan == "segitiga sama kaki":
             tinggi = int(input("PILIH TINGGI BARIS STAIRNYA : "))
